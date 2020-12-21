@@ -1,5 +1,7 @@
 # Answer2
 
+첫번째 해결 코드
+
 #### 교수님 왈 : 강의노트에 나와있는 코드는 버그가 있다. 이 버그를 해결한 코드를 제시하여라
 
 ```
@@ -31,6 +33,10 @@ int main()
 	cout << "The max : " << max << endl;
 	cout << "The location of max : " << location << endl;
 }
+
+```
+
+
 
 ```
 #include <iostream>
