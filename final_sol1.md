@@ -1,6 +1,7 @@
-##final exam Answer1
 
-```
+## final exam Answer1
+
+```c 
 
 #include <iostream>
 using namespace std;
