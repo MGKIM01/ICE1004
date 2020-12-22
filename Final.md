@@ -117,7 +117,7 @@ void main()
 
 ```
 
-Click this to show answer : [Ans1](./final_sol1)
+Click this to show answer : [Ans1](./final_sol1.md)
 
 ## 2번 문제
 
@@ -128,4 +128,4 @@ Click this to show answer : [Ans1](./final_sol1)
 	</div>
 
 
-Click this to show answer : [Ans2](./final_sol2)
+Click this to show answer : [Ans2](./final_sol2.md)
