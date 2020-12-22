@@ -117,6 +117,8 @@ void main()
 
 ```
 
+Click this to show answer : [Ans1](./final_sol1)
+
 ## 2번 문제
 
 ### Load the "student_003.txt" file to compute average score of each subject (Korean, English, Math). Then store the result to the "evaulation.txt" file.
@@ -125,3 +127,5 @@ void main()
 	<img src = "https://user-images.githubusercontent.com/67851124/102856891-c0fd9b00-446a-11eb-95f2-54dc67d797ee.png">
 	</div>
 
+
+Click this to show answer : [Ans2](./final_sol2)
