@@ -8,7 +8,7 @@
 
 <img src = "https://user-images.githubusercontent.com/67851124/102856679-46cd1680-446a-11eb-8e8d-23ca3ffc32cf.JPG">
 
-```
+```c
 
 #include <iostream>
 using namespace std;
