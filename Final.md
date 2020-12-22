@@ -1,10 +1,12 @@
-# 2020-2 ICE1004 ChoiHN Professor Midterm exam
+# 2020-2 ICE1004 ChoiHN Professor Final exam
 
 <br/>
 
 ## 1번 문제
 
 ### Complete the program to produce the matrix multiplication and summation results as following
+
+<img src = "https://user-images.githubusercontent.com/67851124/102856679-46cd1680-446a-11eb-8e8d-23ca3ffc32cf.JPG">
 
 ```
 
@@ -114,3 +116,12 @@ void main()
 }
 
 ```
+
+## 2번 문제
+
+### Load the "student_003.txt" file to compute average score of each subject (Korean, English, Math). Then store the result to the "evaulation.txt" file.
+
+<div>
+	<img src = "https://user-images.githubusercontent.com/67851124/102856891-c0fd9b00-446a-11eb-95f2-54dc67d797ee.png">
+	</div>
+
