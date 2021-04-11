@@ -1,9 +1,9 @@
 # ICE1004
 # Object - Oriented Programming
 
-- `Haknam Choi` Professor
-- 20 Fall Semester
+-  Professor : `Haknam Choi`
+- Semester : `20 Fall `
 
 
-| Midterm exam    | [View Problem](./middle.md) |
+| Midterm exam    | [View Problem](./middle.md) |   
 | Final exam    | [View Problem](./Final.md) |
